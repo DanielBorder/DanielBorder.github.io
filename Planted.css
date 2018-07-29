@@ -1,0 +1,42 @@
+body, html {
+   height: 100%;
+}
+
+.nav-wrapper {
+   background-color: #00bfbf;
+   margin-bottom: 2px;
+}
+
+.head {
+   font-family: 'proxima-nova', 'Helvetica Neu'", 'Helvetica', 'Arial', sans-serif;
+   font-size: 14px;
+}
+
+.head2 {
+   font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+   font-size: 14px;
+
+}
+
+.head3 {
+   font-family: 'proxima-nova', 'Helvetica Neue', 'Helvetica' 'Arial', sans-serif;
+   font-size: 14px;
+}
+
+.row {
+   justify-content: center;
+   background-color: #00bfbf;
+   color: white;
+   padding: 155px;
+   margin-bottom: 2px;
+   text-align: center;
+   font-size: 20px;
+}
+
+#emailbox {
+   text-align: center;
+}
+
+#text1 {
+   font-size: 40px;
+}
